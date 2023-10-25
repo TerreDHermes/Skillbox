@@ -1,3 +1,3 @@
-# skillbox
 ![gif](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/skillbox.gif)
-Практические работы по golang.
+## Курс от Skillbox - "Профессия Go-разработчик"
+Тут выложены все практические работы.
